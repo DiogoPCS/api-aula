@@ -1,0 +1,10 @@
+Realize o firebase login no prompt e execute os comandos no prompt
+
+Exportar JSON para o seu firebase
+ChaveAcesso.json é chave de acesso exportada nas configurações do projeto do firebase
+
+    npx -p node-firestore-import-export firestore-export -a ChaveAcesso.json -b backup.json
+
+Import JSON para o seu firebase
+
+    npx -p node-firestore-import-export firestore-import -a ChaveAcesso.json -b backup.json

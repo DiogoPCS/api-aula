@@ -1,0 +1,989 @@
+{
+    "__collections__": {
+        "casa": {
+            "bob_esponja": {
+                "quarto": [
+                    "Cama de rede",
+                    "Porta Pérolas",
+                    "Cobertor Azul Marinho"
+                ],
+                "sala": [
+                    "sofá de palha",
+                    "TV água viva 4k full color",
+                    "Quadros de Hambúrgueres",
+                    "Filme Procurando Nemo"
+                ],
+                "cozinha": [
+                    "Livro de Receita de Hambúrguere",
+                    "Pia de Coral",
+                    "Mesa do Caes",
+                    "Banco de Areia"
+                ],
+                "banheiro": [
+                    "Janela de Navio",
+                    "Pia de Água Doce",
+                    "Privada com Rolha de Poço"
+                ],
+                "__collections__": {}
+            },
+            "timao_pumba": {
+                "quarto": [
+                    "Cama de Dormir",
+                    "Travesseiro de Palha",
+                    "Retratos do Simba",
+                    "Manta de Zebrada"
+                ],
+                "sala": [
+                    "Sofá de Pele de Cobra",
+                    "TV Constelação",
+                    "Retratos do Simba",
+                    "CD Música Atum com Batata",
+                    "Gnu Empalhado",
+                    "Tambores Musicais"
+                ],
+                "cozinha": [
+                    "Livro de Receita Larvas Explosivas",
+                    "Mesa com Folha de Palmeira",
+                    "Cadeira de Bamboo",
+                    "Cortina Pele de Hiena Ostentação Le Chiquê",
+                    "Pote de Insetos Frescos"
+                ],
+                "banheiro": [
+                    "Sem Janela ao Ar Livre",
+                    "Sem Parede ao Ar Livre",
+                    "Folhas Higiênicas de Hortelã"
+                ],
+                "__collections__": {}
+            }
+        },
+        "veiculos": {
+            "1": {
+                "preco": 25000,
+                "marca": "Fiat",
+                "ano": 2010,
+                "cor": "vermelho",
+                "modelo": "Palio",
+                "__collections__": {}
+            },
+            "2": {
+                "preco": 45000,
+                "marca": "Ford",
+                "ano": 2015,
+                "cor": "preto",
+                "modelo": "Fusion",
+                "__collections__": {}
+            },
+            "3": {
+                "preco": 60000,
+                "marca": "BMW",
+                "ano": 2019,
+                "cor": "branco",
+                "modelo": "X6",
+                "__collections__": {}
+            },
+            "4": {
+                "preco": 38000,
+                "marca": "Chevrolet",
+                "ano": 2013,
+                "cor": "prata",
+                "modelo": "Cruze",
+                "__collections__": {}
+            },
+            "5": {
+                "preco": 30000,
+                "marca": "Renault",
+                "ano": 2012,
+                "cor": "azul",
+                "modelo": "Sandero",
+                "__collections__": {}
+            },
+            "6": {
+                "preco": 52000,
+                "marca": "Volkswagen",
+                "ano": 2016,
+                "cor": "verde",
+                "modelo": "Jetta",
+                "__collections__": {}
+            },
+            "7": {
+                "preco": 65000,
+                "marca": "Mercedes-Benz",
+                "ano": 2020,
+                "cor": "preto",
+                "modelo": "GLC",
+                "__collections__": {}
+            },
+            "8": {
+                "preco": 48000,
+                "marca": "Hyundai",
+                "ano": 2014,
+                "cor": "cinza",
+                "modelo": "HB20",
+                "__collections__": {}
+            },
+            "9": {
+                "preco": 55000,
+                "marca": "Audi",
+                "ano": 2017,
+                "cor": "branco",
+                "modelo": "A4",
+                "__collections__": {}
+            },
+            "10": {
+                "preco": 32000,
+                "marca": "Toyota",
+                "ano": 2011,
+                "cor": "prata",
+                "modelo": "Corolla",
+                "__collections__": {}
+            },
+            "11": {
+                "preco": 17500,
+                "marca": "Fiat",
+                "ano": 2010,
+                "cor": "vermelho",
+                "modelo": "Uno",
+                "__collections__": {}
+            },
+            "12": {
+                "preco": 60000,
+                "marca": "BMW",
+                "ano": 2015,
+                "cor": "preto",
+                "modelo": "M5",
+                "__collections__": {}
+            },
+            "13": {
+                "preco": 25000,
+                "marca": "Volkswagen",
+                "ano": 2012,
+                "cor": "branco",
+                "modelo": "Gol",
+                "acessorios": [
+                    "alarme",
+                    "sensor de estacionamento"
+                ],
+                "__collections__": {}
+            },
+            "14": {
+                "preco": 40000,
+                "marca": "Jeep",
+                "ano": 2018,
+                "cor": "verde",
+                "modelo": "Renegade",
+                "componentes": {
+                    "câmbio": "automático",
+                    "motor": "1.8"
+                },
+                "__collections__": {}
+            },
+            "15": {
+                "preco": 15000,
+                "marca": "Fiat",
+                "ano": 2005,
+                "cor": "azul",
+                "modelo": "Palio",
+                "__collections__": {}
+            },
+            "16": {
+                "preco": 18000,
+                "marca": "Chevrolet",
+                "ano": 2009,
+                "cor": "prata",
+                "modelo": "Corsa",
+                "componentes": {
+                    "direção": "hidráulica"
+                },
+                "__collections__": {}
+            },
+            "17": {
+                "preco": 30000,
+                "marca": "Nissan",
+                "ano": 2016,
+                "cor": "cinza",
+                "modelo": "Sentra",
+                "acessorios": [
+                    "teto solar"
+                ],
+                "__collections__": {}
+            },
+            "18": {
+                "preco": 35000,
+                "marca": "Honda",
+                "ano": 2014,
+                "cor": "branco",
+                "modelo": "Civic",
+                "acessorios": [
+                    "ar condicionado",
+                    "vidro elétrico"
+                ],
+                "__collections__": {}
+            },
+            "19": {
+                "preco": 49000,
+                "componentes": {
+                    "motor": "2.0",
+                    "aro": "18"
+                },
+                "marca": "Audi",
+                "ano": 2015,
+                "cor": "prata",
+                "acessorios": [
+                    "teto solar",
+                    "sistema de som Bose"
+                ],
+                "modelo": "A3 Sportback",
+                "__collections__": {}
+            },
+            "20": {
+                "preco": 32000,
+                "componentes": {
+                    "motor": "1.6",
+                    "aro": "16"
+                },
+                "marca": "Fiat",
+                "ano": 2016,
+                "cor": "branco",
+                "acessorios": [
+                    "direção hidráulica",
+                    "sensor de estacionamento"
+                ],
+                "modelo": "Palio",
+                "__collections__": {}
+            },
+            "21": {
+                "preco": 78000,
+                "componentes": {
+                    "motor": "2.5",
+                    "aro": "20"
+                },
+                "marca": "Toyota",
+                "ano": 2020,
+                "cor": "preto",
+                "acessorios": [
+                    "farol de xenônio",
+                    "controle de estabilidade"
+                ],
+                "modelo": "Hilux",
+                "__collections__": {}
+            },
+            "22": {
+                "preco": 45000,
+                "componentes": {
+                    "motor": "1.8",
+                    "aro": "17"
+                },
+                "marca": "Honda",
+                "ano": 2018,
+                "cor": "azul",
+                "acessorios": [
+                    "ar condicionado digital",
+                    "câmera de ré"
+                ],
+                "modelo": "Civic",
+                "__collections__": {}
+            },
+            "23": {
+                "preco": 20000,
+                "componentes": {
+                    "motor": "1.0",
+                    "aro": "14"
+                },
+                "marca": "Renault",
+                "ano": 2013,
+                "cor": "verde",
+                "acessorios": [
+                    "vidro elétrico",
+                    "trava elétrica"
+                ],
+                "modelo": "Clio",
+                "__collections__": {}
+            },
+            "24": {
+                "preco": 58000,
+                "componentes": {
+                    "motor": "2.0",
+                    "aro": "18"
+                },
+                "marca": "Mercedes-Benz",
+                "ano": 2016,
+                "cor": "preto",
+                "acessorios": [
+                    "paddle shift",
+                    "teto panorâmico"
+                ],
+                "modelo": "CLA",
+                "__collections__": {}
+            },
+            "25": {
+                "preco": 42000,
+                "marca": "Audi",
+                "ano": 2020,
+                "cor": "branco",
+                "modelo": "A3",
+                "acessorios": [
+                    "ar-condicionado digital",
+                    "controle de estabilidade"
+                ],
+                "__collections__": {}
+            },
+            "26": {
+                "preco": 55000,
+                "componentes": {
+                    "motor": "3.0 turbo",
+                    "transmissao": "automática",
+                    "direcao": "hidráulica"
+                },
+                "marca": "BMW",
+                "ano": 2017,
+                "cor": "prata",
+                "acessorios": [
+                    "farol de xenônio",
+                    "sensor de chuva",
+                    "sensor de estacionamento"
+                ],
+                "modelo": "Série 5",
+                "__collections__": {}
+            },
+            "27": {
+                "preco": 48000,
+                "marca": "Toyota",
+                "ano": 2018,
+                "cor": "preto",
+                "modelo": "Corolla",
+                "acessorios": [
+                    "câmbio CVT",
+                    "ar-condicionado",
+                    "sistema multimídia"
+                ],
+                "__collections__": {}
+            },
+            "28": {
+                "preco": 25000,
+                "marca": "Honda",
+                "ano": 2015,
+                "cor": "cinza",
+                "modelo": "Fit",
+                "acessorios": [
+                    "câmbio automático",
+                    "sensor de estacionamento"
+                ],
+                "__collections__": {}
+            },
+            "29": {
+                "preco": 31000,
+                "componentes": {
+                    "motor": "1.8",
+                    "transmissao": "automática",
+                    "direcao": "elétrica"
+                },
+                "marca": "Hyundai",
+                "ano": 2019,
+                "cor": "vermelho",
+                "acessorios": [
+                    "sistema de som",
+                    "câmera de ré"
+                ],
+                "modelo": "Elantra",
+                "__collections__": {}
+            },
+            "30": {
+                "preco": 53000,
+                "marca": "Mercedes-Benz",
+                "ano": 2022,
+                "cor": "preto",
+                "modelo": "C 180",
+                "acessorios": [
+                    "farol de LED",
+                    "teto solar elétrico"
+                ],
+                "__collections__": {}
+            },
+            "31": {
+                "preco": "35000",
+                "marca": "Ford",
+                "ano": 2000,
+                "cor": "vermelho",
+                "modelo": "mustang",
+                "__collections__": {}
+            },
+            "32": {
+                "preco": 30500,
+                "componentes": {
+                    "turbo": "2.0",
+                    "aro": "17"
+                },
+                "marca": "chevrolet",
+                "ano": 2001,
+                "cor": "preto",
+                "acessorios": [
+                    "vidro elétrico",
+                    "vidro com película"
+                ],
+                "modelo": "camaro",
+                "__collections__": {}
+            },
+            "33": {
+                "preco": "28000",
+                "marca": "Fiat",
+                "ano": 2010,
+                "cor": "azul",
+                "modelo": "Uno",
+                "__collections__": {}
+            },
+            "34": {
+                "preco": "42000",
+                "marca": "Volkswagen",
+                "ano": 2018,
+                "cor": "branco",
+                "modelo": "Golf",
+                "__collections__": {}
+            },
+            "35": {
+                "preco": "50000",
+                "marca": "BMW",
+                "ano": 2020,
+                "cor": "prata",
+                "modelo": "Série 3",
+                "__collections__": {}
+            },
+            "36": {
+                "preco": "75000",
+                "marca": "Audi",
+                "ano": 2021,
+                "cor": "vermelho",
+                "modelo": "RS5",
+                "__collections__": {}
+            },
+            "37": {
+                "preco": "20000",
+                "marca": "Renault",
+                "ano": 2005,
+                "cor": "verde",
+                "modelo": "Clio",
+                "__collections__": {}
+            },
+            "38": {
+                "preco": "32000",
+                "marca": "Toyota",
+                "ano": 2015,
+                "cor": "cinza",
+                "modelo": "Corolla",
+                "__collections__": {}
+            },
+            "39": {
+                "preco": "45000",
+                "marca": "Nissan",
+                "ano": 2017,
+                "cor": "prata",
+                "modelo": "Sentra",
+                "__collections__": {}
+            },
+            "40": {
+                "preco": "65000",
+                "marca": "Mercedes-Benz",
+                "ano": 2022,
+                "cor": "preto",
+                "modelo": "AMG GT",
+                "__collections__": {}
+            },
+            "41": {
+                "preco": 23990,
+                "marca": "Fiat",
+                "ano": 2010,
+                "cor": "verde",
+                "modelo": "Palio",
+                "__collections__": {}
+              },
+              "42": {
+                "preco": 135000,
+                "componentes": {
+                  "motor": "6.0 V8",
+                  "transmissao": "manual",
+                  "direcao": "hidráulica",
+                  "freios": "ABS",
+                  "suspensao": "esportiva",
+                  "rodas": "aro 18",
+                  "escape": "esportivo"
+                },
+                "marca": "Chevrolet",
+                "ano": 2012,
+                "cor": "amarelo",
+                "acessorios": [
+                  "faróis de xenônio",
+                  "sistema de som Bose"
+                ],
+                "modelo": "Camaro",
+                "__collections__": {}
+              },
+              "43": {
+                "preco": 33000,
+                "marca": "Volkswagen",
+                "ano": 2015,
+                "cor": "azul",
+                "modelo": "Gol",
+                "__collections__": {}
+              },
+              "44": {
+                "preco": 80000,
+                "componentes": {
+                  "motor": "2.0",
+                  "transmissao": "automática",
+                  "direcao": "elétrica",
+                  "freios": "ABS",
+                  "suspensao": "multilink",
+                  "rodas": "aro 19"
+                },
+                "marca": "Toyota",
+                "ano": 2019,
+                "cor": "branco",
+                "acessorios": [
+                  "teto solar",
+                  "ar-condicionado digital",
+                  "sistema de som premium"
+                ],
+                "modelo": "Corolla",
+                "__collections__": {}
+              },
+              "45": {
+                "preco": 55000,
+                "marca": "Fiat",
+                "ano": 2017,
+                "cor": "prata",
+                "modelo": "Toro",
+                "__collections__": {}
+              },
+              "46": {
+                "preco": 95000,
+                "componentes": {
+                  "motor": "1.5 turbo",
+                  "transmissao": "automática",
+                  "direcao": "elétrica",
+                  "freios": "ABS",
+                  "suspensao": "multilink",
+                  "rodas": "aro 18",
+                  "escape": "esportivo"
+                },
+                "marca": "Honda",
+                "ano": 2021,
+                "cor": "vermelho",
+                "acessorios": [
+                  "faróis de LED",
+                  "painel digital",
+                  "sistema de som premium",
+                  "teto solar panorâmico"
+                ],
+                "modelo": "Civic",
+                "__collections__": {}
+              },
+              "47": {
+                "preco": 72000,
+                "marca": "Ferrari",
+                "ano": 2022,
+                "cor": "vermelho",
+                "modelo": "F8 Tributo",
+                "__collections__": {}
+            },
+            "48": {
+                "preco": 58000,
+                "componentes": {
+                    "motor": "2.0",
+                    "aro": "18"
+                },
+                "marca": "Volkswagen",
+                "ano": 2020,
+                "cor": "branco",
+                "acessorios": [
+                    "ar-condicionado",
+                    "teto solar"
+                ],
+                "modelo": "Golf GTI",
+                "__collections__": {}
+            },
+            "49": {
+                "preco": 65000,
+                "componentes": {
+                    "motor": "2.5",
+                    "aro": "20"
+                },
+                "marca": "Audi",
+                "ano": 2021,
+                "cor": "azul",
+                "acessorios": [
+                    "faróis de LED",
+                    "sistema de som Bang & Olufsen"
+                ],
+                "modelo": "RS3 Sedan",
+                "__collections__": {}
+            },
+            "50": {
+                "preco": 75000,
+                "componentes": {
+                    "motor": "3.5",
+                    "aro": "22"
+                },
+                "marca": "Lexus",
+                "ano": 2022,
+                "cor": "prata",
+                "acessorios": [
+                    "câmera 360°",
+                    "banco com massagem"
+                ],
+                "modelo": "RX 350",
+                "__collections__": {}
+            }
+        },
+        "super_herois": {
+            "superman": {
+                "nome": "Superman",
+                "identidade_secreta": "Clark Kent",
+                "poderes": [
+                    "superforça",
+                    "invulnerabilidade",
+                    "visão de calor"
+                ],
+                "aliados": [
+                    "Batman",
+                    "Mulher-Maravilha"
+                ],
+                "__collections__": {}
+            },
+            "batman": {
+                "nome": "Batman",
+                "identidade_secreta": "Bruce Wayne",
+                "poderes": [
+                    "inteligência",
+                    "habilidades em artes marciais"
+                ],
+                "aliados": [
+                    "Robin",
+                    "Mulher-Gato"
+                ],
+                "collections": {}
+            },
+            "mulher_maravilha": {
+                "nome": "Mulher-Maravilha",
+                "identidade_secreta": "Diana Prince",
+                "poderes": [
+                    "força sobre-humana",
+                    "resistência a lesões",
+                    "sentidos aguçados"
+                ],
+                "aliados": [
+                    "Superman",
+                    "Batman"
+                ],
+                "collections": {}
+            },
+            "flash": {
+                "nome": "Flash",
+                "identidade_secreta": "Barry Allen",
+                "poderes": [
+                    "super velocidade",
+                    "reflexos sobre-humanos",
+                    "capacidade de atravessar objetos sólidos"
+                ],
+                "aliados": [
+                    "Lanterna Verde",
+                    "Kid Flash"
+                ],
+                "collections": {}
+            },
+            "aquaman": {
+                "nome": "Aquaman",
+                "identidade_secreta": "Arthur Curry",
+                "poderes": [
+                    "super força",
+                    "respiração subaquática",
+                    "controle de criaturas marinhas"
+                ],
+                "aliados": [
+                    "Mulher-Maravilha",
+                    "Superman"
+                ],
+                "collections": {}
+            },
+            "lanterna_verde": {
+                "nome": "Lanterna Verde",
+                "identidade_secreta": "Hal Jordan",
+                "poderes": [
+                    "anéis de poder que concedem habilidades como voo e projeção de energia"
+                ],
+                "aliados": [
+                    "Flash",
+                    "Mulher-Gavião"
+                ],
+                "collections": {}
+            },
+            "arqueiro_verde": {
+                "nome": "Arqueiro Verde",
+                "identidade_secreta": "Oliver Queen",
+                "poderes": [
+                    "habilidades em arco e flecha",
+                    "perícia em artes marciais"
+                ],
+                "aliados": [
+                    "Canário Negro",
+                    "Batman"
+                ],
+                "collections": {}
+            },
+            "shazam": {
+                "nome": "Shazam",
+                "identidade_secreta": "Billy Batson",
+                "poderes": [
+                    "força sobre-humana",
+                    "velocidade",
+                    "resistência a lesões"
+                ],
+                "aliados": [
+                    "Superman",
+                    "Mulher-Maravilha"
+                ],
+                "collections": {}
+            },
+            "mulher_gato": {
+                "nome": "Mulher-Gato",
+                "identidade_secreta": "Selina Kyle",
+                "poderes": [
+                    "agilidade",
+                    "habilidades em luta corporal"
+                ],
+                "aliados": [
+                    "Batman",
+                    "Robin"
+                ],
+                "collections": {}
+            },
+            "homem_aranha": {
+                "nome": "Homem-Aranha",
+                "identidade_secreta": "Peter Parker",
+                "poderes": [
+                    "força proporcional de uma aranha",
+                    "agilidade sobre-humana",
+                    "sentido aranha"
+                ],
+                "aliados": [
+                    "Deadpool",
+                    "Daredevil"
+                ],
+                "__collections__": {}
+            },
+            "hulk": {
+                "nome": "Hulk",
+                "identidade_secreta": "Bruce Banner",
+                "poderes": [
+                    "força sobre-humana",
+                    "regeneração",
+                    "resistência sobre-humana"
+                ],
+                "aliados": [
+                    "Thor",
+                    "Capitão América"
+                ],
+                "__collections__": {}
+            },
+            "thor": {
+                "nome": "Thor",
+                "identidade_secreta": "Thor Odinson",
+                "poderes": [
+                    "força sobre-humana",
+                    "voo",
+                    "controle dos raios"
+                ],
+                "aliados": [
+                    "Hulk",
+                    "Homem de Ferro"
+                ],
+                "__collections__": {}
+            },
+            "homem_de_ferro": {
+                "nome": "Homem de Ferro",
+                "identidade_secreta": "Tony Stark",
+                "poderes": [
+                    "tecnologia avançada",
+                    "inteligência",
+                    "força sobre-humana com armadura"
+                ],
+                "aliados": [
+                    "Capitão América",
+                    "Thor"
+                ],
+                "__collections__": {}
+            },
+            "capitao_america": {
+                "nome": "Capitão América",
+                "identidade_secreta": "Steve Rogers",
+                "poderes": [
+                    "força sobre-humana",
+                    "agilidade sobre-humana",
+                    "resistência sobre-humana"
+                ],
+                "aliados": [
+                    "Homem de Ferro",
+                    "Hulk"
+                ],
+                "__collections__": {}
+            },
+            "viuva_negra": {
+                "nome": "Viúva Negra",
+                "identidade_secreta": "Natasha Romanoff",
+                "poderes": [
+                    "inteligência",
+                    "artes marciais",
+                    "espionagem"
+                ],
+                "aliados": [
+                    "Capitão América",
+                    "Gavião Arqueiro"
+                ],
+                "__collections__": {}
+            },
+            "supergirl": {
+                "nome": "Supergirl",
+                "identidade_secreta": "Kara Zor-El",
+                "poderes": ["superforça", "invulnerabilidade", "voo"],
+                "aliados": ["Superman", "Lanterna Verde"],
+                "__collections__": {}
+            }
+        },
+        "etec_sales_gomes": {
+            "cursos": {
+                "todos": [
+                    "Desenvolvimento de Sistemas",
+                    "Desenvolvimento de Sistemas Integrado ao Ensino Médio",
+                    "Administração",
+                    "Administração Integrado ao Ensino Médio",
+                    "Edificações",
+                    "Eletrotécnica",
+                    "Farmácia",
+                    "Logística",
+                    "Manutenção Automotiva",
+                    "Mecânica",
+                    "Mecânica Integrado ao Ensino Médio",
+                    "Mecatrônica",
+                    "Meio Ambiente",
+                    "Meio Ambiente Integrado ao Ensino Médio",
+                    "Nutrição e Dietética",
+                    "Química",
+                    "Química Integrado ao Ensino Médio",
+                    "Recursos Humanos",
+                    "Segurança do Trabalho",
+                    "Finanças",
+                    "Contabilidade",
+                    "Informática para Internet",
+                    "Informática para Internet Integrado ao Ensino Médio"
+                ],
+                "sede": [
+                    "Desenvolvimento de Sistemas",
+                    "Desenvolvimento de Sistemas Integrado ao Ensino Médio",
+                    "Administração",
+                    "Administração Integrado ao Ensino Médio",
+                    "Edificações",
+                    "Eletrotécnica",
+                    "Farmácia",
+                    "Manutenção Automotiva",
+                    "Mecânica",
+                    "Mecânica Integrado ao Ensino Médio",
+                    "Mecatrônica",
+                    "Meio Ambiente",
+                    "Meio Ambiente Integrado ao Ensino Médio",
+                    "Nutrição e Dietética",
+                    "Química",
+                    "Química Integrado ao Ensino Médio",
+                    "Segurança do Trabalho"
+                ],
+                "fatec": [
+                    "Desenvolvimento de Sistemas Integrado ao Ensino Médio",
+                    "Administração Integrado ao Ensino Médio"
+                ],
+                "ipero": [
+                    "Finanças",
+                    "Informática para Internet integrado ao Ensino Médio"
+                ],
+                "capela_do_alto": [
+                    "Recursos Humanos"
+                ],
+                "cesario_lange": [
+                    "Administração"
+                ],
+                "porangaba": [
+                    "Administração"
+                ],
+                "boituva": [
+                    "Logística",
+                    "Segurança do Trabalho",
+                    "Contabilidade"
+                ],
+                "professores": {
+                    "desenvolvimento_de_sistemas": {
+                        "parte_diversificada": [
+                            "Amauri",
+                            "Bruno",
+                            "Diogo",
+                            "Felipe",
+                            "Gabriel",
+                            "Giovanni"
+                        ],
+                        "base_nacional_comum_curricular": []
+                    }
+                },
+                "componentes": {
+                    "desenvolvimento_de_sistemas": {
+                        "parte_diversificada": {
+                            "formacao_tecnica_profissional": [
+                                "Programção Web I",
+                                "Programação Web II",
+                                "Programação Web III",
+                                "Análise e Projetos de Sistemas",
+                                "Design Digital",
+                                "Fundamentos da Informática",
+                                "Técnicas de Programação e Algoritmos",
+                                "Banco de Dados I",
+                                "Banco de Dados II",
+                                "Desenvolvimento de Sistemas",
+                                "Ética Organizacional",
+                                "Programação de Aplicativos Mobile I",
+                                "Programação de Aplicativos Mobile II",
+                                "Internet, Protocolos e Segurança de Sistemas de Informação",
+                                "Planejamento e Desenvolvimento de Trabalho de COnclusão de Curso",
+                                "Qualidade e Teste de Software",
+                                "Sistemas Embarcados"
+                            ],
+                            "projetos_de_aprodundamento": [
+                                "Estudos Avançados em Ciências da Natureza e suas Tecnologias",
+                                "Estudos Avançados em Matemática e suas Tecnologias",
+                                "Laboratório de Investigação Científica",
+                                "Práticas de Empreendedorismo",
+                                "Laboratório de Mediação e Intervenção Sociocultural",
+                                "Laboratório de Processos Criativos"
+                            ]
+                        },
+                        "base_nacional_comum_curricular": {
+                            "Linguagens e suas Tecnologias": [
+                                "Língua Portuguesa",
+                                "Língua Inglesa",
+                                "Arte",
+                                "Educação Física"
+                            ],
+                            "Matemática e suas Tecnologias": [
+                                "Matemática"
+                            ],
+                            "Ciências da Natureza e suas Tecnologias": [
+                                "Física",
+                                "Química",
+                                "Biologia"
+                            ],
+                            "Ciências Humanas e Sociais Aplicadas": [
+                                "História",
+                                "Geografia",
+                                "Filosofia",
+                                "Sociologia"
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
